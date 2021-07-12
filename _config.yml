@@ -2,4 +2,4 @@ title: Dung Nguyen
 description: add description here
 logo: /IMG_5254_2.JPG
 theme: jekyll-theme-minimal
-show_downloads: "false"
+# show_downloads: "true"
