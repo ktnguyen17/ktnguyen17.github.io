@@ -11,14 +11,19 @@
   box-sizing: border-box;
 }
 
-header {
-  width: 25%;
-  float: left;
-}
+// header {
+//   width: 25%;
+//   float: left;
+// }
 
-section {
-  width: 75%;
-  float: left;
+// section {
+//   width: 75%;
+//   float: left;
+// }
+
+@media only screen and (min-width:992px){
+  header {width: 25%}
+  section {width: 75%}
 }
 
 img {
