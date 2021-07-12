@@ -13,16 +13,6 @@ body {
   margin-right:5%;
 }
 
-@media only screen and (min-width:992px){
-  .wrapper {
-  display: grid;
-  grid-template-columns: 1fr 2fr;
-  gap: 10px;
-  grid-auto-rows: minmax(100px, auto);
-}
-}
-
-
 img {
   display: block;
   margin-left: auto;
@@ -33,7 +23,15 @@ img {
   border-radius: 50%;
 }
 
-/* The sidebar menu */
+@media only screen and (min-width:992px){
+  .wrapper {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 10px;
+  grid-auto-rows: minmax(100px, auto);
+}
+  
+  /* The sidebar menu */
 .sidenav {
   height: 100%; /* Full-height: remove this if you want "auto" height */
   width: 7%; /* Set the width of the sidebar */
@@ -50,7 +48,7 @@ img {
 .sidenav a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
-  font-size: 15px;
+  font-size: 18px;
   color: #818181;
   display: block;
 }
@@ -65,9 +63,10 @@ img {
   margin-left: 160px; /* Same as the width of the sidebar */
   padding: 0px 10px;
 }
-
-/* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
-@media screen and (max-height: 450px) {
-  .sidenav {padding-top: 15px;}
-  .sidenav a {font-size: 18px;}
 }
+
+
+
+
+
+
