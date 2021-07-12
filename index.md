@@ -1,4 +1,4 @@
-# Welcome to Dung (Kate)'s homepage
+# Dung Nguyen's homepage
 
 ## About me
 
