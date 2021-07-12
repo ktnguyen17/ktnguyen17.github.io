@@ -3,10 +3,6 @@
 
 @import "{{ site.theme }}";
 
-// header{
-//   margin: auto;
-// }
-
 * {
   box-sizing: border-box;
 }
@@ -18,26 +14,16 @@ body {
 }
 
 @media only screen and (min-width:992px){
-//   header {width: 25%}
-//   section {width: 60%}
   .wrapper {
   display: grid;
   grid-template-columns: 1fr 2fr;
   gap: 10px;
   grid-auto-rows: minmax(100px, auto);
 }
-
 }
 
-// div {
-// //   margin-left: 10%;
-// //   margin-right: 10%;
-//   margin-top: 100px;
-//   margin-btoom: 100px;
-// }
 
 img {
-//   margin-left: -150px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -47,22 +33,41 @@ img {
   border-radius: 50%;
 }
 
-// h1 {
-// //   margin-left: auto;
-// //   margin-right: auto;
-//   text-align: center;
-//   color: black;
-//   font-size: large;
-// //   margin-left:-150px;
-  
-// }
+/* The sidebar menu */
+.sidenav {
+  height: 100%; /* Full-height: remove this if you want "auto" height */
+  width: 5%; /* Set the width of the sidebar */
+  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  background-color: rgb(32,32,32); 
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 20px;
+}
 
-// p{
-//   text-align: center;
-// //   margin-left: 60px;
-// }
+/* The navigation menu links */
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+}
 
-// section{
-// //   margin-left: -50px;
-//   text-align: left;
-// }
+/* When you mouse over the navigation links, change their color */
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+/* Style page content */
+.main {
+  margin-left: 160px; /* Same as the width of the sidebar */
+  padding: 0px 10px;
+}
+
+/* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
