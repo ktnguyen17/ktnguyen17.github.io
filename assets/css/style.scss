@@ -3,14 +3,19 @@
 
 @import "{{ site.theme }}";
 
-img {
+header{
   margin-left: -150px;
-  width: 60%;
+}
+
+img {
+//   margin-left: -150px;
+  width: 70%;
   height: auto;
   border-radius: 50%;
 }
 
 h1 {
-  margin-left:-150px;
-  color: black;
+//   margin-left:-150px;
+  color: "black";
 }
+
