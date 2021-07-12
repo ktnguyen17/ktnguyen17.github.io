@@ -7,6 +7,20 @@
 //   margin: auto;
 // }
 
+* {
+  box-sizing: border-box;
+}
+
+header {
+  width: 25%;
+  float: left;
+}
+
+section {
+  width: 75%;
+  float: left;
+}
+
 img {
 //   margin-left: -150px;
   display: block;
@@ -33,7 +47,7 @@ h1 {
 // //   margin-left: 60px;
 // }
 
-section{
-//   margin-left: -50px;
-  text-align: left;
-}
+// section{
+// //   margin-left: -50px;
+//   text-align: left;
+// }
