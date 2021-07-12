@@ -4,5 +4,8 @@
 @import "{{ site.theme }}";
 
 img {
+  margin-left: -50px;
+  width: 600;
+  height: auto;
   border-radius: 50%;
 }
