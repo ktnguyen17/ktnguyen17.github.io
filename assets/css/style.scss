@@ -3,24 +3,32 @@
 
 @import "{{ site.theme }}";
 
-header{
-  margin: auto;
-}
+// header{
+//   margin: auto;
+// }
 
 img {
 //   margin-left: -150px;
-  
+  display: block;
+  margin-left: auto;
+  margin-right: auto
   width: 70%;
   height: auto;
   border-radius: 50%;
 }
 
 h1 {
+  margin-left: auto;
+  margin-right: auto;
   color: black;
 //   margin-left:-150px;
   
 }
 
+p{
+  margin-left: auto;
+  margin-right: auto;
+}
 // section{
 //   margin-left: -50px;
 // }
