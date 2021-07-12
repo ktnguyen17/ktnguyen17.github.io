@@ -22,8 +22,15 @@
 // }
 
 @media only screen and (min-width:992px){
-  header {width: 25%}
-  section {width: 75%}
+  header {width: 30%}
+  section {width: 60%}
+}
+
+div {
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 100px;
+  margin-btoom: 100px;
 }
 
 img {
