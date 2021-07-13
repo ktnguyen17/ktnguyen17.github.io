@@ -3,7 +3,7 @@
 <br/>
 <h2 style="color:rgb(50,50,50); font-family:Georgia; font-size:25px">About me</h2>
   <p style="font-size:16px;">
-  My name is Nguyễn Thuỳ 
+  My name is Nguyễn Thuỳ Dung. I also go by Dung Nguyen or Kate Nguyen in the US and 阮垂榕 in China. My research interests focus on deep learning and computer vision.
   </p>
 <br/>
 <br/>
