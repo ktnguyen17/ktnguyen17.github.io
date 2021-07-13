@@ -5,9 +5,7 @@
   <h2 style="font-size:25px;">About me</h2>
 <!--   <hr style="height:1px;border:none;color:#333;background-color:#333;" /> -->
     <p style="font-size:17px;">
-    My name is Nguyễn Thuỳ Dung. I also go by Dung Nguyen or Kate Nguyen in the US and 阮垂榕 in China. 
-    <br/>
-    My research interests focus on deep learning and computer vision.
+    My name is Nguyễn Thuỳ Dung. I also go by Dung Nguyen or Kate Nguyen in the US and 阮垂榕 in China. My research interests focus on deep learning and computer vision.
     </p>
   <br/>
   <br/>
