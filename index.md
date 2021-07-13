@@ -13,7 +13,9 @@ CSS is becoming a more important language to know every day, so the sooner you h
 <br/>
 
 <h2 style="color:rgb(50,50,50); font-family:Georgia; font-size:25px">Education</h2>
-<i class="fas fa-graduation-cap fa-lg" style="color: rgb(70,70,70)"></i> Earlham College (USA), B.A. in Computer Science
+<p style="font-size:16px;">
+  <i class="fas fa-graduation-cap fa-lg" style="color: rgb(70,70,70)"></i> Earlham College (USA), B.A. in Computer Science
+</p>                                                                     
 <br/>
 <br/>
 
