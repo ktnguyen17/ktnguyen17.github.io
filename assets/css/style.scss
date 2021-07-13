@@ -27,6 +27,10 @@ img {
   border-radius: 50%;
 }
 
+h2 { 
+  border-bottom: 1.5px solid rgb(200,200,200);
+  margin-bottom: 10px;
+}
 
 @media only screen and (min-width:992px){
   .wrapper {
@@ -44,7 +48,7 @@ img {
     margin-right: 50px;
     margin-left: -50px;
   }
-  
+} 
   
 //   /* The sidebar menu */
 // .sidenav {
@@ -78,7 +82,7 @@ img {
 //   margin-left: 160px; /* Same as the width of the sidebar */
 //   padding: 0px 10px;
 // }
-}
+
 
 
 
