@@ -11,15 +11,15 @@
   <br/>
 
   <h2 style="font-size:25px;">Education</h2>
-    <p style="font-size:17px;">
+    <div style="font-size:17px;">
       <i class="fas fa-graduation-cap fa-lg" style="color: rgb(70,70,70); font-family:Font Awesome 5 Free;"></i>&nbsp; Earlham College (USA), B.A. in Computer Science (Nov. 2020)
-    </p>                                                                     
+    </div>                                                                     
   <br/>
   <br/>
 
   <h2 style="font-size:25px;">Projects</h2>
-    <p style="font-size:17px;">
-    </p>
+    <div style="font-size:17px;">
+    </div>
   <br/>
   <br/>
 
