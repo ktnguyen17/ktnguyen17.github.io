@@ -11,7 +11,7 @@
 
   <h2 style="font-size:25px">Education</h2>
     <p style="font-size:17px;">
-      <i class="fas fa-graduation-cap fa-lg" style="color: rgb(70,70,70)"></i>&nbsp; Earlham College (Indiana, USA), B.A. in Computer Science
+      <i class="fas fa-graduation-cap fa-lg" style="color: rgb(70,70,70)"></i>&nbsp; Earlham College (USA), B.A. in Computer Science
     </p>                                                                     
   <br/>
   <br/>
