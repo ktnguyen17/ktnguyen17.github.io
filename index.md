@@ -1,5 +1,5 @@
 <content style="color:#4a4a4a; font-family:Helvetica Neue;">
-  <h1 style="font-size:35px">Welcome to my homepage!</h1>
+  <h1 style="font-size:35px; font-weight:lighter;">Welcome to my homepage!</h1>
   <br/>
   <br/>
   <h2 style="font-size:25px">About me</h2>
