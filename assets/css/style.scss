@@ -30,11 +30,19 @@ img {
 
 @media only screen and (min-width:992px){
   .wrapper {
-  display: grid;
-  grid-template-columns: 2fr 5fr;
-  gap: 10px;
-  grid-auto-rows: minmax(100px, auto);
-}
+    display: grid;
+    grid-template-columns: [side-start] 2fr [side-end] [main-start] 5fr [main-end];
+    gap: 10px;
+    grid-auto-rows: minmax(100px, auto);
+  }
+  .griditem1 {
+    background-color: rgb(70,70,70);
+    grid-area: side;
+  }
+  
+  header{
+    margin-left: -100px;
+  }
   
 //   /* The sidebar menu */
 // .sidenav {
