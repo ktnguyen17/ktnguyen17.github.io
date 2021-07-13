@@ -1,4 +1,4 @@
-<content style="color:#707070; font-family:Helvetica Neue;">
+<content style="color:#606060; font-family:Helvetica Neue;">
   <h1 style="font-size:35px; font-weight:normal; text-spacing:1.3px;">Welcome to my homepage!</h1>
   <br/>
   <br/>
@@ -12,7 +12,7 @@
 
   <h2 style="font-size:25px;">Education</h2>
     <div style="font-size:17px;">
-      <i class="fas fa-graduation-cap fa-lg" style="color: rgb(70,70,70); font-family:Font Awesome 5 Free;"></i>&nbsp; Earlham College (USA), B.A. in Computer Science (Nov. 2020)
+      <i class="fas fa-graduation-cap fa-lg" style="font-family:Font Awesome 5 Free;"></i>&nbsp; Earlham College (USA), B.A. in Computer Science (Nov. 2020)
     </div>                                                                     
   <br/>
   <br/>
