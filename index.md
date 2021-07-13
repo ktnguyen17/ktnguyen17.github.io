@@ -1,28 +1,28 @@
-<h1 style="color:#202121; font-family:lato; font-size:40px">Welcome to Dung Nguyen's Homepage</h1>
+<h1 style="color:#202121; font-family:Verdana; font-size:40px">Welcome to Dung Nguyen's Homepage</h1>
 <br/>
 <br/>
-<h2 style="color:#202121; font-family:lato; font-size:30px">About me</h2>
-  <p style="font-size:18px; font-family:lato; color:#202121">
+<h2 style="color:#202121; font-family:Verdana; font-size:30px">About me</h2>
+  <p style="font-size:18px; font-family:Verdana; color:#202121">
   My name is Nguyễn Thuỳ Dung. I also go by Dung Nguyen or Kate Nguyen in the US and 阮垂榕 in China. My research interests focus on deep learning and computer vision.
   </p>
 <br/>
 <br/>
 
-<h2 style="color:#202121; font-family:lato; font-size:30px">Education</h2>
-  <p style="font-size:18px; font-family:lato; color:#202121">
+<h2 style="color:#202121; font-family:Verdana; font-size:30px">Education</h2>
+  <p style="font-size:18px; font-family:Verdana; color:#202121">
     <i class="fas fa-graduation-cap fa-lg" style="color: rgb(70,70,70)"></i>&nbsp; Earlham College (USA), B.A. in Computer Science
   </p>                                                                     
 <br/>
 <br/>
 
-<h2 style="color:#202121; font-family:lato; font-size:30px">Projects</h2>
-  <p style="font-size:18px; font-family:sans-serif; color:#202121">
+<h2 style="color:#202121; font-family:Verdana; font-size:30px">Projects</h2>
+  <p style="font-size:18px; font-family:Verdana; color:#202121">
   </p>
 <br/>
 <br/>
 
-<h2 style="color:#202121; font-family:lato; font-size:30px">Awards and Honors</h2>
-  <p style="font-size:18px; font-family:lato; color:#202121">
+<h2 style="color:#202121; font-family:Verdana; font-size:30px">Awards and Honors</h2>
+  <p style="font-size:18px; font-family:Verdana; color:#202121">
   </p>
 <br/>
 <br/>
