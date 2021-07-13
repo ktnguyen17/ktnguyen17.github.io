@@ -1,4 +1,4 @@
-<h1 style="color:rgb(60,60,60); font-family:Garamond; font-size:30px"><i>Welcome to Dung Nguyen's Homepage</i></h1>
+<h1 style="color:rgb(60,60,60); font-family:Didot; font-size:30px"><i>Welcome to Dung Nguyen's Homepage</i></h1>
 <br/>
 <br/>
 <h2 style="color:rgb(50,50,50); font-family:Georgia; font-size:25px">About me</h2>
