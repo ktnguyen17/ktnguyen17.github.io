@@ -41,19 +41,20 @@ h2 {
 //     grid-template-areas: "left right";
 //   }
   
-  header{
-    margin-right: 50px;
-    margin-left: -50px;
-  }
+//   header{
+//     margin-right: 50px;
+//     margin-left: -50px;
+//   }
  
 
   .left {
     position: fixed; /* Fixed Sidebar (stay in place on scroll) */
     z-index: 1; /* Stay on top */
     top: 10; /* Stay at the top */
-    left: 20;
+    left: 0;
     width: 25%;
     background-color: #48494a;
+    height:100%;
   }
   .right {
     width: 65%;
