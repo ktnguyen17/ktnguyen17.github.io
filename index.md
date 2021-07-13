@@ -25,6 +25,7 @@
 
   <h2 style="font-size:25px;">Awards and Honors</h2>
     <p style="font-size:17px;">
+      * test
     </p>
   <br/>
   <br/>
