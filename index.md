@@ -8,6 +8,11 @@ CSS is becoming a more important language to know every day, so the sooner you h
 <br/>
 <br/>
 
+<h2 style="color:rgb(50,50,50); font-family:Georgia; font-size:25px">Education</h2>
+* Earlham College (USA), B.A. in Computer Science
+<br/>
+<br/>
+
 <h2 style="color:rgb(50,50,50); font-family:Georgia; font-size:25px">Projects</h2>
 
 <br/>
