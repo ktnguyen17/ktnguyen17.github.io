@@ -9,7 +9,11 @@ CSS is becoming a more important language to know every day, so the sooner you h
 
 <h2 style="color:rgb(50,50,50); font-family:Georgia; font-size:25px">Projects</h2>
 
-<br/><br/>
+<br/>
+
+
+
+
 
 <h2 style="color:rgb(50,50,50); font-family:Georgia; font-size:25px">Awards and Honors</h2>
 
