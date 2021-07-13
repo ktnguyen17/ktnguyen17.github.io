@@ -1,7 +1,3 @@
----
-fontsize:13px
----
-
 <h1 style="color:rgb(60,60,60); font-family:Didot; font-size:30px">Welcome to Dung Nguyen's Homepage</h1>
 <br/>
 <br/>
