@@ -1,4 +1,4 @@
-<content style="color:#606060; font-family:Helvetica Neue;">
+<content style="color:#5d5d5d; font-family:Helvetica Neue;">
   <h1 style="font-size:35px; font-weight:normal; text-spacing:1.3px;">Welcome to my homepage!</h1>
   <br/>
   <br/>
