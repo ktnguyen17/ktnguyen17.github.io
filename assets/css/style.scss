@@ -35,23 +35,22 @@ h2 {
 @media only screen and (min-width:992px){
   .wrapper {
     display: grid;
-    grid-template-columns: [side-start] 2fr [side-end] 5fr;
+    grid-template-columns:2fr 5fr;
     gap: 10px;
     grid-auto-rows: minmax(100px, auto);
-  }
-  .griditem1 {
-    background-color: rgb(70,70,70);
-    grid-area: side;
   }
   
   header{
     margin-right: 50px;
     margin-left: -50px;
   }
+  
+.left{position: fixed; width:2/7;}
+.right{float:right; width:5/7;}  
+  
 } 
 
-.left{position: fixed;}
-.right{float:right;}
+
 //   /* The sidebar menu */
 // .sidenav {
 //   height: 100%; /* Full-height: remove this if you want "auto" height */
