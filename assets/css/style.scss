@@ -28,60 +28,32 @@ img {
   border-radius: 50%;
 }
 
+/* Style content headings */
 h2 { 
   border-bottom: 1.5px solid rgb(200,200,200);
   margin-bottom: 10px;
 }
 
+/* Style of links in content */
 content a {
   color:#5da4c2; 
   text-decoration:none!important;
 }
 
-// .outer {
-//   display: block;
-// }
-
-// .outer .inner {
-//   display: none;
-//   margin-left: 10px;
-// }
-
-// .outer:hover {
-//   cursor: pointer;
-// }
-
-// .outer:active .inner {
-//   display: block;
-// }
-
-// summary::-webkit-details-marker {
-//   color: #5da4c2;
-// }
-// summary:focus {
-//   outline-style: none;
-// }
-
+/* Summary - details toggle */
 .about {
   display: inline;
 } 
- 
 details {
   display: inline;
 }
-
 summary {
   display: inline;
 }
-
 summary:focus {
   display: inline;
   outline: 0;
 }
-
-// details[open] summary {
-//   display: inline;
-// }
 
 /* Desktop-only view */
 @media only screen and (min-width:992px){
@@ -91,7 +63,7 @@ summary:focus {
     font-weight: normal;
   }
   .links a {
-    color: #989b9c;
+    color: #737272;
     text-decoration:none;
     font-size:14px
   }
