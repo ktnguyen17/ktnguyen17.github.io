@@ -12,6 +12,7 @@
 
   <h2 style="font-size:25px;">Education</h2>
     <div style="font-size:17px;">
+      <i class="fas fa-graduation-cap fa-lg" style="font-family:Font Awesome 5 Free;"></i>&nbsp; Peking University (China), M.S. in Computer Science (anticipated completion Jul. 2024)
       <i class="fas fa-graduation-cap fa-lg" style="font-family:Font Awesome 5 Free;"></i>&nbsp; Earlham College (USA), B.A. in Computer Science (Nov. 2020)
     </div>                                                                     
   <br/>
