@@ -1,4 +1,4 @@
-<content style="color:#555555; font-family:Helvetica Neue; line-height:1.5px;">
+<content style="color:#555555; font-family:Helvetica Neue;">
   <h1 style="font-size:35px; font-weight:normal; text-spacing:1.3px;">Welcome to my homepage!</h1>
   <br/>
   <br/>
@@ -11,7 +11,7 @@
   <br/>
 
   <h2 style="font-size:25px;">Education</h2>
-    <div style="font-size:17px;">
+    <div style="font-size:17px; line-height:1.5px;">
       <i class="fas fa-graduation-cap fa-lg" style="font-family:Font Awesome 5 Free;"></i>&nbsp; Peking University (China), M.S. in Computer Science (2021-present)<br/>
       <i class="fas fa-graduation-cap fa-lg" style="font-family:Font Awesome 5 Free;"></i>&nbsp; Earlham College (USA), B.A. in Computer Science (2017-2020)
     </div>                                                                     
@@ -25,7 +25,7 @@
   <br/>
 
   <h2 style="font-size:25px;">Awards and Honors</h2>
-    <div style="font-size:17px;">
+    <div style="font-size:17px;  line-height:1.5px;">
       <li>William Roha Computer Science Endowed Award (Earlham College), 2021</li>
       <li>Induction to Phi Beta Kappa Academic Honor Society (USA), 2021</li>
       <li>Graduated with College Honors (Earlham College), 2020</li>
