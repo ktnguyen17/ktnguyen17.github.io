@@ -13,8 +13,8 @@
 
   <h2 style="font-size:25px;">Education</h2>
     <div style="font-size:17px; line-height:35px;">
-      <i class="fas fa-graduation-cap fa-lg" style="font-family:Font Awesome 5 Free;"></i>&nbsp; Peking University (China), M.S. in Computer Science (2021-present)<br/>
-      <i class="fas fa-graduation-cap fa-lg" style="font-family:Font Awesome 5 Free;"></i>&nbsp; Earlham College (USA), B.A. in Computer Science (2017-2020)
+      <i class="fas fa-graduation-cap fa-lg" style="font-family:Font Awesome 5 Free;"></i>&nbsp; M.S. in Computer Science (2021-present), Peking University, Beijing, China <br/>
+      <i class="fas fa-graduation-cap fa-lg" style="font-family:Font Awesome 5 Free;"></i>&nbsp; B.A. in Computer Science (2017-2020), Earlham College, Indiana, USA
     </div>                                                                     
   <br/>
   <br/>
