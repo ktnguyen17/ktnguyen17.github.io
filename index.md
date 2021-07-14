@@ -13,7 +13,7 @@
   <h2 style="font-size:25px;">Education</h2>
     <div style="font-size:18px; line-height:37px;">
       <i class="fas fa-graduation-cap fa-lg" style="font-family:Font Awesome 5 Free;"></i>&nbsp; M.S. in Computer Science (2021-present), Peking University, Beijing, China <br/>
-      <i class="fas fa-graduation-cap fa-lg" style="font-family:Font Awesome 5 Free;"></i>&nbsp; B.A. in Computer Science (2017-2020), Earlham College, Indiana, USA
+      <i class="fas fa-graduation-cap fa-lg" style="font-family:Font Awesome 5 Free;"></i>&nbsp; B.A. in Computer Science (2017-2020), <a href="https://earlham.edu/" target="_blank" style="text-decoration:none">Earlham College</a>, Indiana, USA
     </div>                                                                     
   <br/>
   <br/>
