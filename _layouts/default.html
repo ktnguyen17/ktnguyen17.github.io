@@ -27,30 +27,32 @@
     
   
     <div class="wrapper">
-      <div class="left">
+      <div class="left" class="row">
       <header>
-        
+        <div class="mobile-left">
         <img src="/assets/img/profile-pic.JPG"/>
+        </div>
+        <div class="class="mobile-right">
+          <h1 style="text-align:center; color:rgb(85,85,85); font-size:x-large; font-family:Helvetica; letter-spacing:1px;">Dung Nguyen</h1>
+
+          <p style="text-align:center; color:#929494; font-size:16px; margin-bottom:10px; margin-left:80px; margin-right:80px;">Master's student at Peking University</p>
+
+          <div class="links">
+            <p style="text-align:left; margin-left:115px;"><a href="mailto: thuydzungnguyen0599@gmail.com"><i class="fas fa-envelope fa-lg" style="color:#4a6275"></i>&nbsp;&nbsp;Email</a></small></p>
+
+            {% if site.github.is_project_page %}
+            <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+            {% endif %}
+
+            {% if site.github.is_user_page %}
+            <p class="view" style="text-align:left; margin-left:115px;"><a href="{{ site.github.owner_url }}" target="_blank"><i class="fab fa-github fa-lg" style="color:#211F1F"></i>&nbsp;&nbsp;GitHub</a></p>
+            {% endif %}
+
+            <p style="text-align:left; margin-left:116px;"><a href="https://www.linkedin.com/in/dung-nguyen99/" target="_blank"><i class="fab fa-linkedin fa-lg" style="color:#2867B2"></i>&nbsp;&nbsp;LinkedIn</a></small></p>
+            <p style="text-align:left; margin-left:117px;"><a href="/assets/personal-docs/CV2021-DungNguyen.pdf" target="_blank"><i class="fas fa-file-alt fa-lg" style="color:#4f4a46"></i>&nbsp;&nbsp;CV</a></small></p>
+          </div>  
+        </div>
         
-        <h1 style="text-align:center; color:rgb(85,85,85); font-size:x-large; font-family:Helvetica; letter-spacing:1px;">Dung Nguyen</h1>
-        
-        <p style="text-align:center; color:#929494; font-size:16px; margin-bottom:10px; margin-left:80px; margin-right:80px;">Master's student at Peking University</p>
-        
-        <div class="links">
-          <p style="text-align:left; margin-left:115px;"><a href="mailto: thuydzungnguyen0599@gmail.com"><i class="fas fa-envelope fa-lg" style="color:#4a6275"></i>&nbsp;&nbsp;Email</a></small></p>
-
-          {% if site.github.is_project_page %}
-          <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-          {% endif %}
-
-          {% if site.github.is_user_page %}
-          <p class="view" style="text-align:left; margin-left:115px;"><a href="{{ site.github.owner_url }}" target="_blank"><i class="fab fa-github fa-lg" style="color:#211F1F"></i>&nbsp;&nbsp;GitHub</a></p>
-          {% endif %}
-
-          <p style="text-align:left; margin-left:116px;"><a href="https://www.linkedin.com/in/dung-nguyen99/" target="_blank"><i class="fab fa-linkedin fa-lg" style="color:#2867B2"></i>&nbsp;&nbsp;LinkedIn</a></small></p>
-          <p style="text-align:left; margin-left:117px;"><a href="/assets/personal-docs/CV2021-DungNguyen.pdf" target="_blank"><i class="fas fa-file-alt fa-lg" style="color:#4f4a46"></i>&nbsp;&nbsp;CV</a></small></p>
-        </div>  
-
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
