@@ -2,7 +2,7 @@
   <h1 style="font-size:35px; font-weight:normal; text-spacing:1.3px;">Welcome to my homepage!</h1>
   <br/>
   <br/>
-  <h2 style="font-size:25px;">About me</h2>
+  <h2 style="font-size:25px;">Bio</h2>
     <div style="font-size:18px; line-height:27px;" class="about">
     My name is Nguyễn Thuỳ Dung <details style="color:#5da4c2;"> Nwin Too-ee Yoong<summary>[pronunciation]</summary></details>. I also go by Dung Nguyen or Kate Nguyen in the US and 阮垂榕 in China. I am a Master's student under the supervision of <a href="https://zsdonghao.github.io/" class="content-links" target="_blank">Professor Hao Dong</a> at the <a href="https://cfcs.pku.edu.cn/english/" class="content-links" target="_blank">Center on Frontiers of Computing Studies (CFCS)</a>, <a href="https://english.pku.edu.cn/" target="_blank">Peking University</a>. <br/> 
     My research interests focus on deep learning and computer vision.
