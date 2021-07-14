@@ -54,12 +54,29 @@ content a {
 // .outer:active .inner {
 //   display: block;
 // }
-summary::-webkit-details-marker {
-  color: #5da4c2;
+
+// summary::-webkit-details-marker {
+//   color: #5da4c2;
+// }
+// summary:focus {
+//   outline-style: none;
+// }
+
+.about {
+  display: inline;
+} 
+ 
+details {
+  display: inline;
 }
-summary:focus {
-  outline-style: none;
+
+summary {
+  display: inline;
 }
+
+// details[open] summary {
+//   display: inline;
+// }
 
 /* Desktop-only view */
 @media only screen and (min-width:992px){
