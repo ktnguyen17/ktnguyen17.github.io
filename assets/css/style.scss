@@ -29,7 +29,7 @@ img {
 }
 
 /* Style of contact links in header */
-  .links a {
+  .header-links a {
     color: #575555;
     text-decoration:none;
     font-size:14px
@@ -65,7 +65,7 @@ summary:focus {
 /* Desktop-only view */
 @media only screen and (min-width:992px){
 
-  .links{
+  .header-links{
     margin-left:-20px;
     font-weight: normal;
   }
@@ -87,22 +87,7 @@ summary:focus {
 } 
 /* End of Desktop-only view */
 
-@media only screen and (max-width:991px){
-  .mobile-left {
-  float: left;
-  width: 35%;
-  }
-  .mobile-right {
-  float: right;
-  width: 65%;
-  }
-/* Clear floats after the columns */
-  .row:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
-}  
+  
 //   /* The sidebar menu */
 // .sidenav {
 //   height: 100%; /* Full-height: remove this if you want "auto" height */
