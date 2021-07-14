@@ -68,10 +68,12 @@ content a {
  
 details {
   display: inline;
+  border-style:none;
 }
 
 summary {
   display: inline;
+  border-style:none;
 }
 
 // details[open] summary {
