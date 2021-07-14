@@ -72,6 +72,10 @@ details {
 
 summary {
   display: inline;
+}
+
+summary:focus {
+  display: inline;
   outline: 0;
 }
 
