@@ -28,6 +28,13 @@ img {
   border-radius: 50%;
 }
 
+/* Style of contact links in header */
+  .links a {
+    color: #737272;
+    text-decoration:none;
+    font-size:14px
+  }
+
 /* Style content headings */
 h2 { 
   border-bottom: 1.5px solid rgb(200,200,200);
@@ -61,11 +68,6 @@ summary:focus {
   .links{
     margin-left:-20px;
     font-weight: normal;
-  }
-  .links a {
-    color: #737272;
-    text-decoration:none;
-    font-size:14px
   }
 
   .left {
