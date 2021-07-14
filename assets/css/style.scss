@@ -38,21 +38,27 @@ content a {
   text-decoration:none!important;
 }
 
-.outer {
-  display: block;
-}
+// .outer {
+//   display: block;
+// }
 
-.outer .inner {
-  display: none;
-  margin-left: 10px;
-}
+// .outer .inner {
+//   display: none;
+//   margin-left: 10px;
+// }
 
-.outer:hover {
-  cursor: pointer;
-}
+// .outer:hover {
+//   cursor: pointer;
+// }
 
-.outer:active .inner {
-  display: block;
+// .outer:active .inner {
+//   display: block;
+// }
+summary::-webkit-details-marker {
+  color: #5da4c2;
+}
+summary:focus {
+  outline-style: none;
 }
 
 /* Desktop-only view */
