@@ -5,7 +5,7 @@
   <h2 style="font-size:25px;">About me</h2>
 <!--   <hr style="height:1px;border:none;color:#333;background-color:#333;" /> -->
     <p style="font-size:17px;">
-    My name is Nguyễn Thuỳ Dung. I also go by Dung Nguyen or Kate Nguyen in the US and 阮垂榕 in China. I am a Master's student under the supervision of <a href="https://zsdonghao.github.io/" target="_blank" style="color:#5da4c2; text-decoration:none;">Professor Hao Dong</a> at the Center on Frontiers of Computing Studies (CFCS), Peking University. <br/> 
+    My name is Nguyễn Thuỳ Dung. I also go by Dung Nguyen or Kate Nguyen in the US and 阮垂榕 in China. I am a Master's student under the supervision of <a href="https://zsdonghao.github.io/" class="content-links" target="_blank" >Professor Hao Dong</a> at the <a href="https://cfcs.pku.edu.cn/english/" class="content-links" target="_blank">Center on Frontiers of Computing Studies (CFCS)</a>, Peking University. <br/> 
     My research interests focus on deep learning and computer vision.
     </p>
   <br/>
