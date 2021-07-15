@@ -29,7 +29,7 @@
       <li>William Roha Computer Science Endowed Award - Earlham College, 2021</li>
       <li>Induction to Phi Beta Kappa Academic Honor Society - USA, 2021</li>
       <li>Graduated with College Honors - Earlham College, 2020</li>
-      <li>Grace Hopper Celebration Scholarship for Women in Computing -USA, 2020</li>
+      <li>Grace Hopper Celebration Scholarship for Women in Computing - USA, 2020</li>
     </div>
   <br/>
   <br/>
