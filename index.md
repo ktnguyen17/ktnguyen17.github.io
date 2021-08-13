@@ -4,7 +4,7 @@
   <br/>
   <h2 style="font-size:25px;">Bio</h2>
     <div style="font-size:18px; line-height:27px;" class="about">
-    My name is Nguyễn Thuỳ Dung <details style="color:#5da4c2;"> Nwin Too-ee Yoong<summary>[pronunciation]</summary></details>. I also go by Dung Nguyen or Kate Nguyen in the US and 阮垂榕 in China. I am a Master's student under the supervision of <a href="https://zsdonghao.github.io/" class="content-links" target="_blank">Professor Hao Dong</a> at the <a href="https://cfcs.pku.edu.cn/english/" class="content-links" target="_blank">Center on Frontiers of Computing Studies (CFCS)</a>, <a href="https://english.pku.edu.cn/" target="_blank">Peking University</a>. <br/> 
+    My name is Nguyễn Thuỳ Dung <details style="color:#5da4c2;"> Nwin Too-ee Yoong<summary>[pronunciation]</summary></details>. I also go by Dung Nguyen or Kate Nguyen in the US and 阮垂榕 in China. I am a Master's student under the supervision of <a href="http://www.xlhu.cn/" class="content-links" target="_blank">Professor Xiaolin Hu</a> at the <a href="https://www.cs.tsinghua.edu.cn/csen/" class="content-links" target="_blank">Department of Computer Science and Technology</a>, <a href="https://www.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a>. <br/> 
     My research interests focus on deep learning and computer vision.
     </div>
   <br/>
@@ -12,7 +12,7 @@
 
   <h2 style="font-size:25px;">Education</h2>
     <div style="font-size:18px; line-height:37px;">
-      <i class="fas fa-graduation-cap fa-lg" style="font-family:Font Awesome 5 Free;"></i>&nbsp; M.S. in Computer Science (2021-present), Peking University, Beijing, China <br/>
+      <i class="fas fa-graduation-cap fa-lg" style="font-family:Font Awesome 5 Free;"></i>&nbsp; M.Eng. in Computer Science and Technology (2021-present), Tsinghua University, Beijing, China <br/>
       <i class="fas fa-graduation-cap fa-lg" style="font-family:Font Awesome 5 Free;"></i>&nbsp; B.A. in Computer Science (2017-2020), <a href="https://earlham.edu/" target="_blank" style="color:inherit;">Earlham College</a>, Indiana, USA
     </div>                                                                     
   <br/>
