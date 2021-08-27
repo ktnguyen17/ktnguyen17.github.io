@@ -13,9 +13,9 @@
   <h2 style="font-size:25px;">Education</h2>
     <div style="font-size:18px; line-height:30px;">
       <i class="fas fa-graduation-cap fa-lg" style="font-family:Font Awesome 5 Free;"></i>&nbsp; <b>Tsinghua University,</b> Beijing, China
-        <p style="font-size:16px">&emsp;&emsp;&emsp;&ensp;M.S. in Computer Science and Technology (2021-present)</p>
+        <p style="font-size:16px">&emsp;&emsp;&emsp;&nbsp;M.S. in Computer Science and Technology (2021-present)</p>
       <i class="fas fa-graduation-cap fa-lg" style="font-family:Font Awesome 5 Free;"></i>&nbsp; <b><a href="https://earlham.edu/" target="_blank" style="color:inherit;">Earlham College</a>,</b> Indiana, USA
-        <p style="font-size:16px">&emsp;&emsp;&emsp;&ensp;B.A. in Computer Science (2017-2020)</p>
+        <p style="font-size:16px">&emsp;&emsp;&emsp;&nbsp;B.A. in Computer Science (2017-2020)</p>
     </div>                                                                     
   <br/>
   <br/>
