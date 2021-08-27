@@ -12,7 +12,8 @@
 
   <h2 style="font-size:25px;">Education</h2>
     <div style="font-size:18px; line-height:37px;">
-      <i class="fas fa-graduation-cap fa-lg" style="font-family:Font Awesome 5 Free;"></i>&nbsp; Tsinghua University, Beijing, China <br/> M.S. in Computer Science and Technology (2021-present) <br/>
+      <i class="fas fa-graduation-cap fa-lg" style="font-family:Font Awesome 5 Free;"></i>&nbsp; Tsinghua University, Beijing, China <br/> 
+       <p style="font-size:15px">M.S. in Computer Science and Technology (2021-present)<p/> <br/>
       <i class="fas fa-graduation-cap fa-lg" style="font-family:Font Awesome 5 Free;"></i>&nbsp; B.A. in Computer Science (2017-2020), <a href="https://earlham.edu/" target="_blank" style="color:inherit;">Earlham College</a>, Indiana, USA
     </div>                                                                     
   <br/>
