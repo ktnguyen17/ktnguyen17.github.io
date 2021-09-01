@@ -1,7 +1,7 @@
 <content style="color:#555555; font-family:Helvetica Neue;">
 <!--   <h1 style="font-size:35px; font-weight:normal; text-spacing:1.3px;">Welcome to my homepage!</h1> -->
-  <br/>
-  <br/>
+<!--   <br/>
+  <br/> -->
   <h2 style="font-size:25px;">Bio</h2>
     <div style="font-size:18px; line-height:27px;" class="about">
     My name is Nguyễn Thuỳ Dung <details style="color:#5da4c2;"> Nwin Too-ee Yoong<summary>[pronunciation]</summary></details>. I go by Dung Nguyen or Kate Nguyen in the US and 阮垂榕 in China. I am a first-year Master's student under the supervision of <a href="http://www.xlhu.cn/" class="content-links" target="_blank">Professor Xiaolin Hu</a> at the <a href="https://www.cs.tsinghua.edu.cn/csen/" class="content-links" target="_blank">Department of Computer Science and Technology</a>, <a href="https://www.tsinghua.edu.cn/en/" target="_blank">Tsinghua University</a>. <br/> 
