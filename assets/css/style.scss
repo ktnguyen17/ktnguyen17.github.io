@@ -65,15 +65,18 @@ summary:focus {
 
 .topnav {
 // 	float: right;
-	position: -webkit-sticky;
-	position: sticky;
+	position: fixed;
+// 	position: -webkit-sticky;
+// 	position: sticky;
 	top: 0;
 	overflow:hidden;
 	background-color: white;
+	padding-bottom: 20px;
+	padding-top: 10px;
 }
 .nav-wrapper {
-// 	float:right;
-	padding-bottom: 10px;
+	float:right;
+// 	padding-bottom: 20px;
 }
 
 .topnav a {
