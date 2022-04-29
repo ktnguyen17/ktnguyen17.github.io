@@ -11,7 +11,7 @@
   <br/>
   <br/>
 
-  <h2 id="edu" style="font-size:25px; line-height:30px;">Education</h2>
+  <h2 id="edu" style="font-size:25px; line-height:40px;">Education</h2>
   <br/>
     <div style="font-size:18px; line-height:30px;">
       <i class="fas fa-graduation-cap fa-lg" style="font-family:Font Awesome 5 Free;"></i>&nbsp; <b><a href="https://www.tsinghua.edu.cn/en/" target="_blank" style="color:inherit;">Tsinghua University</a>,</b> Beijing, China
