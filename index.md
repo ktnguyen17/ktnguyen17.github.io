@@ -10,7 +10,7 @@
   <br/>
   <br/>
 
-  <h2 id="education" style="font-size:25px;">Education</h2>
+  <h2 id="edu" style="font-size:25px;">Education</h2>
     <div style="font-size:18px; line-height:30px;">
       <i class="fas fa-graduation-cap fa-lg" style="font-family:Font Awesome 5 Free;"></i>&nbsp; <b>Tsinghua University,</b> Beijing, China
         <p style="font-size:16px">&emsp;&emsp;&emsp;M.S. in Computer Science and Technology, Advanced Computing Program (August 2021 - July 2023)</p>
