@@ -14,7 +14,7 @@
   <h2 id="edu" style="font-size:25px;">Education</h2>
   <br/>
     <div style="font-size:18px; line-height:30px;">
-      <i class="fas fa-graduation-cap fa-lg" style="font-family:Font Awesome 5 Free;"></i>&nbsp; <b>Tsinghua University,</b> Beijing, China
+      <i class="fas fa-graduation-cap fa-lg" style="font-family:Font Awesome 5 Free;"></i>&nbsp; <b><a href="https://www.tsinghua.edu.cn/en/" target="_blank" style="color:inherit;">Tsinghua University</a>y,</b> Beijing, China
         <p style="font-size:16px">&emsp;&emsp;&emsp;M.S. in Computer Science and Technology, Advanced Computing Program (August 2021 - July 2023)</p>
       <i class="fas fa-graduation-cap fa-lg" style="font-family:Font Awesome 5 Free;"></i>&nbsp; <b><a href="https://earlham.edu/" target="_blank" style="color:inherit;">Earlham College</a>,</b> Indiana, USA
         <p style="font-size:16px">&emsp;&emsp;&emsp;B.A. in Computer Science (August 2017 - November 2020)</p>
