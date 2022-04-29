@@ -64,14 +64,16 @@ summary:focus {
 
 
 .topnav {
-	float: right;
+// 	float: right;
 	position: -webkit-sticky;
 	position: sticky;
 	top: 0;
 	overflow:hidden;
 	background-color: white;
 }
-
+.nav-wrapper {
+	float:right;
+}
 .topnav a {
 //   float: right;
 //   color: #f2f2f2;
