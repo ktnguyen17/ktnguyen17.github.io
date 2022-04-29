@@ -69,8 +69,8 @@ summary:focus {
 // 	position:absolute;
 	left:0;
 	right:0;
-	position: -webkit-sticky;
-	position: sticky;
+// 	position: -webkit-sticky;
+// 	position: sticky;
 	top: 0;
 	overflow:hidden;
 	background-color: white;
@@ -87,7 +87,7 @@ summary:focus {
   float: right;
 //   color: #f2f2f2;
   text-align: center;
-  padding: 0px 16px 15px;
+  padding: 10px 16px 15px;
   text-decoration: none;
   font-size: 18px;
 	color:#5da4c2; 
