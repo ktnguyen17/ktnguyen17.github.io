@@ -63,15 +63,12 @@ summary:focus {
 }
 
 .container-top {
-  --offset: 100px;
   --fade: 120px;
   
   display: flex;
-  width: 60px;
-  justify-self: end;
-  justify-content: flex-end;
   align-items: flex-end;
-  -webkit-mask:linear-gradient(#0000 calc(100vh + var(--offset)),#000 calc(100vh + var(--offset) + var(--fade)));
+  width: 60px;
+  -webkit-mask:linear-gradient(#0000 100vh,#000 calc(100vh + var(--fade)));
 }
 
 .top {
@@ -82,7 +79,7 @@ summary:focus {
   /* visual styling */
   width:100%;
   aspect-ratio:1;
-  background:#4494a6;
+  background:#ff8b24;
   border-radius:10px;
 }
 .top:before {
@@ -93,6 +90,8 @@ summary:focus {
   border-top:5px solid #fff;
   border-right:5px solid #fff;
 }
+
+
 
 
 html{scroll-behavior:smooth}
