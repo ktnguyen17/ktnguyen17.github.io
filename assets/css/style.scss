@@ -62,8 +62,22 @@ summary:focus {
   outline: 0;
 }
 
-
-
+@media only screen and (max-width: 600px) {
+	.topnav {
+		position: fixed;
+		padding-bottom: 5px;
+		left:0;
+		right:0;
+		top: 0;
+		overflow:hidden;
+		background-color: white;
+	}
+	.topnav a {
+		float: right;
+		font-size: 18px;
+		color:#5da4c2;
+	}
+}
 
 /* Desktop-only view */
 @media only screen and (min-width:992px){
