@@ -69,8 +69,8 @@ summary:focus {
 	position:absolute;
 	left:0;
 	right:0;
-// 	position: -webkit-sticky;
-// 	position: sticky;
+	position: -webkit-sticky;
+	position: sticky;
 	top: 0;
 	overflow:hidden;
 	background-color: white;
@@ -85,13 +85,14 @@ summary:focus {
 // }
 
 .topnav a {
-  float: right;
+//   float: right;
 //   color: #f2f2f2;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 18px;
 	color:#5da4c2; 
+	margin-left:60%;
 }
 
 .topnav a:hover {
