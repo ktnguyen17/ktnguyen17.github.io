@@ -65,7 +65,10 @@ summary:focus {
 
 .topnav {
 // 	float: right;
-	position: fixed;
+// 	position: fixed;
+	position:absolute;
+	left:0;
+	right:0;
 // 	position: -webkit-sticky;
 // 	position: sticky;
 	top: 0;
@@ -75,14 +78,14 @@ summary:focus {
 	padding-top: 10px;
 }
 
-.nav-wrapper {
-	margin-left:60&;
-// 	float:right;
-// 	padding-bottom: 20px;
-}
+// .nav-wrapper {
+// 	margin-left:60&;
+// // 	float:right;
+// // 	padding-bottom: 20px;
+// }
 
 .topnav a {
-//   float: right;
+  float: right;
 //   color: #f2f2f2;
   text-align: center;
   padding: 14px 16px;
