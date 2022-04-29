@@ -63,6 +63,7 @@ summary:focus {
 }
 
 .topnav {
+  position: fix;
   overflow: hidden;
   background-color: #333;
 }
@@ -80,6 +81,8 @@ summary:focus {
   background-color: #ddd;
   color: black;
 }
+
+html{scroll-behavior:smooth}
 
 
 /* Desktop-only view */
