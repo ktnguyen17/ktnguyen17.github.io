@@ -72,23 +72,6 @@ summary:focus {
 //     margin-left:-20px;
 //     font-weight: normal;
 //   }
-
-  .left {
-    position: fixed; 
-    z-index: 1; 
-    top: 0;
-    left: 0;
-    width: 25%;
-    height:100%;
-    padding-top: 70px;
-    padding-left: 50px;
-  }
-  .right {
-    width: 65%;
-    margin-left: 12%;
-  }
-
-	
 	.topnav {
 	// 	float: right;
 		position: fixed;
@@ -133,6 +116,24 @@ summary:focus {
 
 
 	html{scroll-behavior:smooth}
+	
+  .left {
+    position: fixed; 
+    z-index: 1; 
+    top: 0;
+    left: 0;
+    width: 25%;
+    height:100%;
+    padding-top: 70px;
+    padding-left: 50px;
+  }
+  .right {
+    width: 65%;
+    margin-left: 12%;
+  }
+
+	
+	
 
 } 
 /* End of Desktop-only view */
