@@ -73,11 +73,13 @@ summary:focus {
 	.topnav {
 		position: fixed;
 		padding-bottom: 5px;
+		padding-right: 5px;
 		left:0;
 		right:0;
 		top: 0;
 		overflow:hidden;
 		background-color: white;
+		opacity:0.6;
 	}
 	.topnav a {
 		float: right;
@@ -110,6 +112,7 @@ summary:focus {
 		top: 0;
 		overflow:hidden;
 		background-color: white;
+		opacity:0.6;
 		padding-bottom: 10px;
 		padding-right: 12%;
 	// 	padding-top: 10px;
