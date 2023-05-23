@@ -15,7 +15,7 @@
   <br/>
     <div style="font-size:18px; line-height:30px;">
       <i class="fas fa-graduation-cap fa-lg" style="font-family:Font Awesome 5 Free;"></i>&nbsp; <b><a href="https://www.tsinghua.edu.cn/en/" target="_blank" style="color:inherit;">Tsinghua University</a>,</b> Beijing, China
-        <p style="font-size:16px">&emsp;&emsp;&emsp;M.S. in Computer Science and Technology, Advanced Computing Program (August 2021 - July 2023)</p>
+        <p style="font-size:16px">&emsp;&emsp;&emsp;M.S. in Computer Science and Technology, Advanced Computing Program (August 2021 - July 2024)</p>
       <i class="fas fa-graduation-cap fa-lg" style="font-family:Font Awesome 5 Free;"></i>&nbsp; <b><a href="https://earlham.edu/" target="_blank" style="color:inherit;">Earlham College</a>,</b> Indiana, USA
         <p style="font-size:16px">&emsp;&emsp;&emsp;B.A. in Computer Science (August 2017 - November 2020)</p>
     </div>                                                                     
@@ -32,7 +32,7 @@
   <h2 id="awards" style="font-size:25px;">Awards and Honors</h2>
   <br/>
     <div style="font-size:18px; line-height:37px;">
-      <li>Chinese Government Scholarship (full-ride scholarship) - Tsinghua University, 2021-2023</li>
+      <li>Chinese Government Scholarship (full-ride scholarship) - Tsinghua University, 2021-2024</li>
       <li>William Roha Computer Science Endowed Award - Earlham College, 2021</li>
       <li>Induction to Phi Beta Kappa Academic Honor Society - USA, 2021</li>
       <li>Graduated with College Honors - Earlham College, 2020</li>
